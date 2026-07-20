@@ -18,8 +18,6 @@ Freelance Product Owner | AI workflow automation | Dogfooding Claude
 ### Skills
 Product Management • Roadmap • Agile • iOS • AI Automation • Claude
 
-### Certifications
-[Badge Anthropic]
 
 ### Contact
 [![malt](https://img.shields.io/badge/Malt-Profile-6366F1?style=for-the-badge)](https://www.malt.fr/profile/florianviret2)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Flo_Viret-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-viret/)
