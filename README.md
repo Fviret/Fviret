@@ -8,7 +8,7 @@ Freelance Product Owner | AI workflow automation | Dogfooding Claude
 ### Current
 - 🔍 Recherche mission freelance PO
 - 🛠 Building projects: [Podomètre](#)
-- - 🛠 Building portfolio projects: [Ratio](#), [Podomètre](#)
+-  🛠 Building portfolio projects: [Ratio](#), [Podomètre](#)
 
 ### Background
 - **EDF** — PO, plateforme dématérialisation documentaire (2024-2026)
