@@ -1,16 +1,24 @@
-## Hi there 👋
+# Flo — PO Augmenté
 
-<!--
-**Fviret/Fviret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance Product Owner | AI workflow automation | Dogfooding Claude
 
-Here are some ideas to get you started:
+**Certified by Anthropic** (6 certifications)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current
+- 🔍 Recherche mission freelance PO
+- 🛠 Building portfolio projects: [Ratio](#), [Podomètre](#)
+
+### Background
+- **EDF** — PO, plateforme dématérialisation documentaire (2024-2026)
+- **BNP Paribas** — Dev iOS Mes Comptes / Hello Bank (2022-2024)
+- **OVHcloud** — Chef de Projet (2024)
+- **École 42** — Full stack bootcamp
+
+### Skills
+Product Management • Roadmap • Agile • iOS • AI Automation • Claude
+
+### Certifications
+[Badge Anthropic]
+
+### Contact
+💼 [Lien Malt] | 📧 [Email] | 🔗 [LinkedIn]
